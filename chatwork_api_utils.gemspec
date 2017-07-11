@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["ryonakao"]
   spec.email         = ["rodriguez.nak@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{It's gem to support notification of chatwork}
+  spec.description   = %q{This gem sends a notification to chat work by specifying the room id, message content, and token id.}
+  spec.homepage      = "https://github.com/ryonakao/chatwork_api_utils"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
