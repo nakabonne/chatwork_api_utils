@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+room_id = 00000000
+message = 'hello!'
+api_token = 111111111
+
+ChatworkApiUtils.notify(room_id, message, api_token)
+```
 
 ## Development
 
